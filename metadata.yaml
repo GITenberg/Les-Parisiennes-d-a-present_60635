@@ -1,0 +1,42 @@
+_repo: Les-Parisiennes-d-a-present_60635
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boutet, Henri
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '51065'
+    url: http://www.gutenberg.org/2009/agents/51065
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Henri_Boutet
+    - https://en.wikipedia.org/wiki/Henri_Boutet
+creator:
+  author:
+    agent_name: Montorgueil, Georges
+    aliases:
+    - Lebesgue, Octave
+    - Montorgueil, G. (Georges)
+    birthdate: 1857
+    deathdate: 1933
+    gutenberg_agent_id: '51064'
+    url: http://www.gutenberg.org/2009/agents/51064
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Octave_Lebesgue
+    - https://fr.wikipedia.org/wiki/Octave_Lebesgue
+description: ''
+gutenberg_issued: '2019-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60635'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- France -- Paris'
+- !lcc 'HQ'
+- !lcsh 'Paris (France) -- Social life and customs -- 19th century'
+- !lcc 'DC'
+- GITenberg
+title: Les Parisiennes d'à présent
+url: http://www.gutenberg.org/ebooks/60635
