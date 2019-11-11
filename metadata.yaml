@@ -1,5 +1,5 @@
 _repo: Les-Parisiennes-d-a-present_60635
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Boutet, Henri
@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Henri_Boutet
     - https://en.wikipedia.org/wiki/Henri_Boutet
+covers:
+- cover_type: archival
+  image_path: 60635-h/images/cover.jpg
 creator:
   author:
     agent_name: Montorgueil, Georges
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Octave_Lebesgue
     - https://fr.wikipedia.org/wiki/Octave_Lebesgue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60635#Les-Parisiennes-d-a-present
 gutenberg_issued: '2019-11-05'
 gutenberg_type: Text
 identifiers:
